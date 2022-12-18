@@ -4,7 +4,7 @@
 
 - **E-mail:** denisboris20@gmail.com
 - **Phone:** +375(29)567-65-16
-- **Discord:** Denis20(@denisboris20)
+- **Discord:** Denis20(@denisboris20)s
 
 ---
 
