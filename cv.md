@@ -9,7 +9,7 @@
 ---
 
 ###About me:
-I am 20 years old, I want to get new skills and knowledge in the field of front-end development.
+I am 23 years old, I want to get new skills and knowledge in the field of front-end development.
 
 ---
 
@@ -35,3 +35,4 @@ function multiply(a, b){
 - **Russian**
 - **Belarussian**
 - **English**
+
